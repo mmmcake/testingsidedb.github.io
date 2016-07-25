@@ -1,0 +1,261 @@
+	body
+	{
+	background-color:#dad9d9; 
+	font-family:"Arial", Helvetica, Sans-Serif; 
+	font-size:100%; 
+	color:#b9b9b9;
+	}
+	
+	a:link {color:#dfe1e5;}      /* unvisited link */
+	a:visited {color:#dfe1e5;}  /* visited link */
+	a:hover {color:#dfe1e5; text-shadow: 0px 0px 5px #f4f4ed;}  /* mouse over link */
+	a:active {color:#dfe1e5;}  /* selected link */ 
+	
+	#Wrapper 
+	{
+	border-left:1px solid #ebebeb;
+	border-right:1px solid #ebebeb;
+	width:1000px;
+	margin-left:auto; 
+	margin-right:auto;
+	margin-top:-10px;
+	margin-bottom:-10px;
+	box-shadow:0px 0px 20px #000000
+	}
+	
+	#Main	
+	{
+	width:1000px; 
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color:#1f2320; 
+	border-bottom:1px solid #ebebeb; 
+	}
+	
+	#TopBar
+	{
+	width:1000px; 
+	margin-left:auto; 
+	margin-right:auto;  
+	background-color:#a3a3a3; 
+	min-height:50px;
+	border-bottom:1px solid #ebebeb; 
+	}
+	
+	#Header
+	{
+	text-align:center;
+	border-bottom:1px solid #ebebeb; 
+	}
+	
+	.Headerimg
+	{
+	border-bottom:1px solid #ebebeb; 
+	}
+	
+	#Nav
+	{
+	width:1000px; 
+	text-align:center;  
+	background-color: #a3a3a3;
+	margin-top:-5px; 
+	min-height:50px;
+	border-bottom:1px solid #ebebeb; 
+	}
+
+	#Main
+	{
+	background-color:#a3a3a3;
+	}
+	
+	#Body
+	{
+	Text-align:center;
+	background-color:#a3a3a3;
+	border-bottom:1px solid #ebebeb; 
+	color:#dfe1e5;
+	min-height:600px;
+	max-height:600px;
+	}
+	
+	#BodyLeft
+	{
+	min-height:600px;
+	max-height:600px;
+	border-right:1px solid #ebebeb;
+	width:350px;
+	float:left;
+	}
+	
+	.addjobtable
+	{
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+	.jobaddedp
+	{
+		padding-top:10px;
+	}
+	
+	.jobsmall
+	{
+		font-size:70%;
+	}
+	
+	.Jobtableleft
+	{
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+	.jobtableright
+	{
+	margin-left:auto;
+	margin-right:auto;
+	}
+	
+	#BodyRight
+	{
+	max-width:630px;
+	max-height:600px;
+	float:left;
+	}
+	
+	.joboxid
+	{
+	width:610px;
+	}
+	
+	#Jobbox
+	{
+	margin:10px;
+	background-color:8a8a8a;
+	border:1px solid #ebebeb;
+	min-height:600px;
+	max-height:600px;
+	}
+	
+	#fpwbody
+	{
+	padding-top:250px;
+	}
+	
+	.buttonfpw
+	{
+	margin-top:15px;
+	}
+	
+	#Footer
+	{
+	padding-top:10px; 
+	width:1000px; 
+	margin-left:auto; 
+	margin-right:auto; 
+	background-color:#a3a3a3; 
+	min-height:60px; 
+	}
+	
+	.foottext
+	{
+	margin-top:20px;
+	text-align:center; 
+	font-size:12px; 
+	color:#ebebeb; 
+	}
+
+	.Bodyparahome
+	{ 
+	font-size:210%; 
+	color:#FFFFFF;
+	}
+	
+	.homeimg1
+	{
+	margin-left:700px;
+	}
+	
+	.homeimg2
+	{
+	margin-right:700px;
+	}
+	
+	#login
+	{
+	float:right;
+	margin-right:10px;
+	margin-top:12px;
+	color: #dedede;
+    text-shadow:
+    -1px -1px 0 #727474,
+    1px -1px 0 #727474,
+    -1px 1px 0 #727474,
+    1px 1px 0 #727474;
+	}
+	
+	.loginFP
+	{
+	margin-right:275px;
+	font-style:italic;
+	}
+	
+	#AUcontent
+	{
+	font-size:125%;
+	width:750px;
+	margin-top:-120px;
+	}
+	
+	.AUimg
+	{
+	margin-left:700px;
+	}
+	
+	.Simg
+	{
+	margin-left:auto;
+	margin-right:auto;
+	padding-top:100px;
+	}
+
+	#CUtext
+	{
+	width:150px;
+	}
+	
+	.CUinput1
+	{
+	margin-left:20px;
+	width:650px;
+	}
+	
+	.CUinput2
+	{
+	margin-left:20px;
+	width:650px;
+	}
+	
+	.CUinput3
+	{
+	margin-left:20px;
+	width:650px;
+	}
+	
+	.CUinput4
+	{
+	margin-left:20px;
+	width:650px;
+	height:250px;
+	}
+	
+	.tableregister
+	{
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:250px;
+	}
+	
+	.registerbox
+	{
+	width:650px;
+	}
